@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+    font-size: "Lucida Sans", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Gevena, Verdana, sans-serif
+}
+
+
+p{
+    color: rgb(86, 19, 117);
+}
+
+main{
+    margin-top: 1rem;
+}
+.paragrafo{
+    border: 1px solid rgb(204, 35, 204);
+    color: rgb(63, 11, 77);
+    margin-top: 1rem;
+}
+#titulo{
+    color: rgb(160, 28, 149);
+    margin-bottom: 1rem;
+}
+input[type="passaword"]{
+    font-size: 3rem;
+    
+}
+.login-form input{
+    font-size: 2rem;
+    color: rgb(121, 59, 129);
+}
+.login-form > input{
+    color: blueviolet;
+    width: 10rem;
+}
+
+.cadastro-form div:nth-of-type(2){
+   background: rgb(150, 24, 223);
+}
